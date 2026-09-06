@@ -1,14 +1,14 @@
 <div align="center">
-
+ 
 # Hi 👋
-
+ 
 ### Senior Full Stack Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+Cloud;Building+scalable+and+production-ready+applications" />
 
 </div>
 
----
+---  
 
 I'm a Senior Full Stack Engineer with 12+ years of experience working on frontend applications, backend platforms, mobile products, APIs, and cloud infrastructure.
 
