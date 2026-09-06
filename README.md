@@ -8,7 +8,7 @@
 
 </div>
 
----
+---  
 
 I'm a Senior Full Stack Engineer with 12+ years of experience working on frontend applications, backend platforms, mobile products, APIs, and cloud infrastructure.
 
